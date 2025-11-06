@@ -2,7 +2,7 @@
 
 Este é um projeto de currículo web estático, desenvolvido inteiramente com HTML5, com foco na utilização correta de tags semânticas.
 
-**Link para o site:** [https://SeuUsuario.github.io/nome-do-repositorio/](https://SeuUsuario.github.io/nome-do-repositorio/)
+**Link para o site:** [https://SeuUsuario.github.io/nome-do-repositorio/](https://github.com/RayDavyd/curriculo-html/blob/main/index.html)
 
 ---
 
